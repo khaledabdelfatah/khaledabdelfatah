@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Khaled Abdelfattah</h1>
 <h3 align="center">Passionate & Fresh CS Graduate 2021 with a 3.75 GPA and an A+ grade in Graduation project , Seeking an opportunity as an Application Support Engineer or in any cloud-related position where I can apply my analytical and technical talents to contribute to the organization's success</h3>
 
-- 🌱 I’m currently learning **DevOps Tools & Cloud**
+- 🌱 I’m currently learning **DevOps Tools & Latest Cloud Technologies**
 
 - 📫 How to reach me **kh_abdelfatah@yahoo.com**
 
